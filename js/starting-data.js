@@ -46,10 +46,10 @@ var restObjArray = [{
   },
 
   {
-    'name': 'Smokestack',
-    'id': '541e02fd498e5af2958c8b1b',
-    'notes': 'We first tried the "meat stick" at a food fair in Dogpatch, and immediately resolved to actually visit the location.  The brisket melts in your mouth.  It is glorious.  All else is secondary.',
-    'neighborhood': 'Dogpatch'
+    'name': 'My Tofu House',
+    'id': '4387a580f964a5200f2b1fe3',
+    'notes': 'Delicious Korean cusines place. Try out their tofu soup!',
+    'neighborhood': 'South Beach'
   },
 
   {
@@ -60,9 +60,9 @@ var restObjArray = [{
   },
 
   {
-    'name': 'MarketBar',
-    'id': '49ef6148f964a520ab681fe3',
-    'notes': 'A reasonably solid choice in terms of food options and quality, but the price reflects the surroundings.  Still, eating on the terrace under the sun, watching the tourists wander by - it\'s an enjoyable experience.',
-    'neighborhood': 'Embarcadero'
+    'name': 'Mensho Ramen',
+    'id': '56b4af45498e429dd2223d46',
+    'notes': 'A Japanese styled ramen shop. Very authentic and delicious.',
+    'neighborhood': 'Lower Nob Hill'
   }
 ];
