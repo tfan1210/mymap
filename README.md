@@ -12,7 +12,7 @@ Project of Udacity and JS framework & Google Map API.
 - API messages are displayed at the top
 - Filters are on the sidebar
 - Responsive page
-- Knockout JS is used
+- Knockout JS framework is used
 - Google map loaded using Maps API
 
 ## References:
